@@ -6,5 +6,5 @@
 
 
 #### | 第三方插件
-
+* [Echarts使用记录](https://github.com/agaper/documents/issues/2#issue-800878218)
 
