@@ -1,6 +1,9 @@
 # documents
 整理值得记录的内容
 
+#### | Vue
+* [Vue和DOM交互相关的](https://github.com/agaper/documents/issues/3#issue-802882748)
+
 #### | 开发规范
 * [效果图实现规范](https://github.com/agaper/documents/issues/1#issue-800867319)
 
